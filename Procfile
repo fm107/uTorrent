@@ -1,1 +1,1 @@
-web: /app/utorrent-server/utserver -configfile /app/utorrent-server/utserver.conf
+web: /app/utorrent-server/utserver -configfile /app/utorrent-server/utserver.conf -logfile log.txt -daemon
